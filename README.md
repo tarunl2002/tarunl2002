@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**tarunl2002/tarunl2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tarun Lalwani
 
-Here are some ideas to get you started:
+## Experience
+It is great working with the seniors so experienced in their respective fields and always there to help us with our doubts.
+## Learning
+- Git/Github
+- We came to know about the Development a lot more
+- Big Data Tools
+- How to explore things related to your field
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Profile
+Link of profile readme [repository link](https://github.com/prateek18801/web-development-tasks/blob/main/readme.md) [edit]
