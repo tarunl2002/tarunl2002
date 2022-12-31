@@ -1,13 +1,24 @@
+# Hi there, I am Tarun Lalwani
 
-# Tarun Lalwani
+```
+I am a web-developer and competetive programmer.
+```
 
-## Experience
-It is great working with the seniors so experienced in their respective fields and always there to help us with our doubts.
-## Learning
-- Git/Github
-- We came to know about the Development a lot more
-- Big Data Tools
-- How to explore things related to your field
+## Currently Learning
+1. Next.js
+2. express
+3. mongodb
 
-## Profile
-Link of profile readme [repository link](https://github.com/prateek18801/web-development-tasks/blob/main/readme.md) [edit]
+## Skills
+1. HTML
+2. CSS
+3. JavaScript
+4. React.js
+5. C++
+
+## Projects
+1. Portfolio
+2. Digital Clock
+3. Blood-donation website
+4. Books management full stack web app
+5. Counter
