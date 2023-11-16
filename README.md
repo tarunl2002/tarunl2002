@@ -6,8 +6,6 @@ I am a web-developer and competetive programmer.
 
 ## Currently Learning
 1. Next.js
-2. express
-3. mongodb
 
 ## Skills
 1. HTML
@@ -15,6 +13,8 @@ I am a web-developer and competetive programmer.
 3. JavaScript
 4. React.js
 5. C++
+6. Express.js
+7. Mongo DB
 
 ## Projects
 1. Portfolio
